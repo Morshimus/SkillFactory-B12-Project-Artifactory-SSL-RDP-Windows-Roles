@@ -6,7 +6,6 @@
    name: postgresql
   vars:
      pg_data_root: /opt/pg_data  
-  run_once: true
   when: molecule_yml is defined
 
 
