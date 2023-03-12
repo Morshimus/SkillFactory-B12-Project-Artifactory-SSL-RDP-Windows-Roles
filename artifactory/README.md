@@ -32,6 +32,7 @@ Including an example of how to use your role (for instance, with variables passe
          - { role:artifactory , jfrog_artifactory_username: admin, jfrog_artifactory_lic: lic, jfrog_artifactory_password: password }
 
 *ALl other variables please keep in secret*
+
 License
 -------
 
