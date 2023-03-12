@@ -1,4 +1,4 @@
-Role Name
+Artifactory
 =========
 
 This role installing artifactory to remote system.
