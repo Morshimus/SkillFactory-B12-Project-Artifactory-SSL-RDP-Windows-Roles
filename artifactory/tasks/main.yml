@@ -160,9 +160,9 @@
      state: restarted
      enabled: yes
 
-- name: Pause for 30 seconds to start Jfrog Artifactory API
+- name: Pause for 60 seconds to start Jfrog Artifactory API
   pause:
-    seconds: 30
+    seconds: 60
   
 
 - name: Create License json Artifactory JFrog 
